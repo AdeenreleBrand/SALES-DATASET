@@ -1,6 +1,6 @@
 # SALES-DATASET
 
-![](WELCOME)
+![](WELCOME.jpg)
 
 ## Introduction
 This is an excel assignment on Sales data,using excel functions which includes 
@@ -31,4 +31,6 @@ This is an excel assignment on Sales data,using excel functions which includes
 
 ## ANSWER
 
+![](SALES-DATA.PNG)
 
+![](THANK-YOUU.jpg)
